@@ -23,3 +23,18 @@ Also, this relies heavily on the datefns library. Make sure to get it!
 ```
 npm install date-fns --save
 ```
+***
+### Version Info
+```
+tailwindcss ^3.0.24
+
+date-fns ^2.28.0
+
+react ^18.1.0
+
+react-dom ^18.1.0
+
+react-scripts 5.0.1
+
+node v16.13.0
+```
