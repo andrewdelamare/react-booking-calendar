@@ -5,6 +5,7 @@
 
   ![calendar pic](calendarPic.png "calendar pic")
 
+  ## [LIVE DEMO](https://react-booking-cal.herokuapp.com)
 ***
 
 ## Want to use it?
